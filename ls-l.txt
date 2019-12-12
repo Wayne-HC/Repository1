@@ -1,0 +1,3 @@
+total 4
+-rw-rw-r-- 1 vagrant vagrant  0 Dec 12 09:31 ls-l.txt
+-rw-rw-r-- 1 vagrant vagrant 13 Dec 12 05:05 README.md
